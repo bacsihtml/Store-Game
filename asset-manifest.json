@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Store-Game/static/css/main.875c42b7.css",
+    "main.js": "/Store-Game/static/js/main.40b22646.js",
+    "static/js/453.fd01d90d.chunk.js": "/Store-Game/static/js/453.fd01d90d.chunk.js",
+    "static/media/Screenshot 2023-05-17 190219.png": "/Store-Game/static/media/Screenshot 2023-05-17 190219.2c6e8b1b2f76cf582277.png",
+    "static/media/bootstrap-icons.woff?": "/Store-Game/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/Store-Game/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/Store-Game/index.html",
+    "main.875c42b7.css.map": "/Store-Game/static/css/main.875c42b7.css.map",
+    "main.40b22646.js.map": "/Store-Game/static/js/main.40b22646.js.map",
+    "453.fd01d90d.chunk.js.map": "/Store-Game/static/js/453.fd01d90d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.875c42b7.css",
+    "static/js/main.40b22646.js"
+  ]
+}
